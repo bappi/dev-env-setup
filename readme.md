@@ -62,3 +62,7 @@ git config --global user.name "bappi"
 git config --global user.email "bappi.cs@gmail.com"
 ```
 SSH: [Here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
+
+Apps:
+
+Ray cast, Seqel Ace, PHP Storm, WARP, Tableplus
